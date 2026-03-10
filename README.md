@@ -1,41 +1,41 @@
-# Ciao! 👋 Sono Ferdinando Muraca
+# Hello! 👋 I'm Ferdinando Muraca
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&width=500&lines=Studente+di+Intelligenza+Artificiale;Machine+Learning+Enthusiast;Data+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&width=500&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Engineering)](https://git.io/typing-svg)
 
-Studio Intelligenza Artificiale e Data Engineering. Questo profilo GitHub è il mio spazio per sperimentare: qui pubblico i progetti nati tra una lezione e l'altra, dove cerco di mettere in pratica la teoria, dai modelli di machine learning alla gestione di database diversi. Mi piace capire come far funzionare le cose "sotto il cofano" e risolvere i problemi tecnici che nascono quando si mettono insieme tecnologie diverse. 
+I study Artificial Intelligence and Data Engineering. This GitHub profile is my space to experiment: here I publish the projects born between classes, where I try to put theory into practice, from machine learning models to managing different databases. I love understanding how things work "under the hood" and solving the technical problems that arise when bringing different technologies together. 
 
-Quando non sono alle prese con il codice o i dati, probabilmente sono davanti a un videogioco o a guardare qualche anime. 🎮✨
+When I'm not deep into code or data, I'm probably playing a video game or watching some anime. 🎮✨
 
 ---
 
-### 🚀 Progetti in Evidenza
+### 🚀 Featured Projects
 
-Ecco i lavori di cui vado più fiero:
+Here are the projects I'm most proud of:
 
 **🕵️‍♂️ [Crime Analyzer](https://github.com/effemuraca/crime-analyzer)**
-> *Un sistema avanzato di Machine Learning per l'analisi dei crimini a New York.*
-> * Implementato un classificatore per prevedere le tipologie di reato.
-> * Analisi di pattern complessi e algoritmi di clustering per mappare le zone a rischio.
+> *An advanced Machine Learning system for crime analysis in New York.*
+> * Implemented a classifier to predict crime types.
+> * Analyzed complex patterns and utilized clustering algorithms to map risk zones.
 > * **Tech:** Python, Scikit-Learn, Pandas
 
 **🏘️ [HomeXplore](https://github.com/effemuraca/homexplore-back)**
-> *Backend per un clone di Zillow con funzionalità avanzate e persistenza poliglotta.*
-> * Sviluppato interamente in **Python** con **FastAPI**.
-> * **MongoDB** per la gestione dei dati principali degli immobili.
-> * **Neo4j** per i dati geospaziali e i POI (Point of Interest) estratti tramite QGIS.
-> * **Redis** per la gestione ultra-rapida delle prenotazioni (reservations).
+> *Backend for a Zillow clone with advanced features and polyglot persistence.*
+> * Developed entirely in **Python** with **FastAPI**.
+> * **MongoDB** for managing core real estate data.
+> * **Neo4j** for geospatial data and POIs (Points of Interest) extracted via QGIS.
+> * **Redis** for ultra-fast reservation management.
 
 ---
 
-### 💻 Stack Tecnologico e Competenze
+### 💻 Tech Stack and Skills
 
-**Intelligenza Artificiale & Data Science:**
+**Artificial Intelligence & Data Science:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Backend & Database:**
+**Backend & Databases:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -47,7 +47,7 @@ Ecco i lavori di cui vado più fiero:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Altri Linguaggi:**
+**Other Languages:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
@@ -55,7 +55,7 @@ Ecco i lavori di cui vado più fiero:
 
 ---
 
-### 📫 Entriamo in contatto!
+### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinando-muraca-b1a117254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandomuraca03@gmail.com)
