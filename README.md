@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&width=600&lines=AI+%26+Data+Engineering+Student;Full+Stack+AI+Engineer;Edge+Computing+%7C+ML+Pipelines;Backend+Architecture+%7C+Polyglot+DB)](https://git.io/typing-svg)
 
-M.Sc. student in **Artificial Intelligence & Data Engineering** at the University of Pisa. I build end-to-end AI solutions — from model training to backend architecture — and I'm currently developing a real-time **fall detection system** deployed on edge nodes for Regione Toscana hospitals.
+M.Sc. student in **Artificial Intelligence & Data Engineering** at the University of Pisa. I build end-to-end AI solutions, from model training to backend architecture, and I'm currently developing a real-time **fall detection system** deployed on edge nodes for Regione Toscana hospitals.
 
 I enjoy understanding how things work under the hood, whether that's a transformer's attention mechanism or a multi-database query planner. When I'm not deep into code, I'm probably playing a video game or watching some anime. 🎮✨
 
