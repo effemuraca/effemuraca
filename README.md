@@ -19,16 +19,14 @@ I enjoy understanding how things work under the hood, whether that's a transform
 
 **🕵️‍♂️ [Crime Analyzer](https://github.com/effemuraca/crime-analyzer)**
 > *An ML system for crime analysis in New York City.*
-> * Multi-class classifier for crime type prediction, with feature engineering on NYPD open-source data.
+> * Two-class classifier to predict risk zones for tourists, with feature engineering on NYPD open-source data.
 > * Pattern analysis to identify temporal and spatial trends in criminal activity across NYC boroughs.
 > * **Tech:** Python, Scikit-Learn, Pandas
 
 **🏘️ [HomeXplore](https://github.com/effemuraca/homexplore-back)**
 > *Backend for a Zillow-like platform with polyglot persistence.*
 > * Developed entirely in **Python** with **FastAPI**.
-> * **Neo4j** for complex geospatial queries and POI data extracted via QGIS.
-> * **MongoDB** with embedded documents for optimised data denormalisation.
-> * **Redis** for high-performance reservation management.
+> * Multi-database architecture: **Neo4j** for complex geospatial queries (POI data via QGIS), **MongoDB** for optimised data denormalisation and **Redis** for high-performance reservation management.
 
 ---
 
@@ -73,3 +71,4 @@ I enjoy understanding how things work under the hood, whether that's a transform
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinando-muraca-b1a117254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandomuraca03@gmail.com)
+
