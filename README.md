@@ -1,32 +1,32 @@
 # Hello! 👋 I'm Ferdinando Muraca
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&width=600&lines=AI+%26+Data+Engineering+Student;Full+Stack+AI+Engineer;Edge+Computing+%7C+ML+Pipelines;Backend+Architecture+%7C+Polyglot+DB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&width=600&lines=AI+%26+Data+Engineering+Student;Full+Stack+AI+Engineer;Computer+Vision+%7C+Edge+Computing;ML+Pipelines+%7C+Polyglot+Backend)](https://git.io/typing-svg)
 
-M.Sc. student in **Artificial Intelligence & Data Engineering** at the University of Pisa. I build end-to-end AI solutions, from model training to backend architecture, and I'm currently developing a real-time **fall detection system** deployed on edge nodes for Regione Toscana hospitals.
+M.Sc. student in **Artificial Intelligence & Data Engineering** at the University of Pisa (B.Sc. 110/110 cum laude). I build end-to-end AI solutions — from model training to backend architecture — and I'm currently developing a real-time **fall detection system** deployed on edge nodes for Regione Toscana hospitals.
 
-I enjoy understanding how things work under the hood, whether that's a transformer's attention mechanism or a multi-database query planner. When I'm not deep into code, I'm probably playing a video game or watching some anime. 🎮✨
+I enjoy understanding how things work under the hood, whether that's a pose estimation pipeline or a multi-database query planner. When I'm not deep into code, I'm probably playing a video game or watching some anime. 🎮✨
 
 ---
 
 ### 🚀 Featured Projects
 
 **🏥 Fall Detection System** *(Master's Thesis — in progress)*
-> *Real-time fall detection module for hospital alarm management, developed for Regione Toscana.*
-> * Deployment on edge nodes for real-time decision making in hospital environments.
+> *Real-time fall detection module for hospital alarm management · Regione Toscana*
+> * Deployed on edge nodes for real-time decision making in hospital environments.
 > * YOLO pose estimation combined with geometric and temporal analysis to discriminate physiological postures from critical fall events.
-> * Dataset harmonisation across multiple international public corpora for robust model generalisation.
+> * Harmonised **6 international public datasets (868 video clips)** to build a large-scale, robust training corpus.
 > * **Tech:** Python, PyTorch, YOLO, OpenCV, Edge Computing
 
 **🕵️‍♂️ [Crime Analyzer](https://github.com/effemuraca/crime-analyzer)**
-> *An ML system for crime analysis in New York City.*
-> * Two-class classifier to predict risk zones for tourists, with feature engineering on NYPD open-source data.
+> *ML system for crime analysis in New York City*
+> * Benchmarked classical ML models (logistic regression, gradient boosting, ensemble) with grid search; best model achieved **ROC-AUC 0.90** on a heavily imbalanced NYPD dataset.
 > * Pattern analysis to identify temporal and spatial trends in criminal activity across NYC boroughs.
 > * **Tech:** Python, Scikit-Learn, Pandas
 
 **🏘️ [HomeXplore](https://github.com/effemuraca/homexplore-back)**
-> *Backend for a Zillow-like platform with polyglot persistence.*
-> * Developed entirely in **Python** with **FastAPI**.
-> * Multi-database architecture: **Neo4j** for complex geospatial queries (POI data via QGIS), **MongoDB** for optimised data denormalisation and **Redis** for high-performance reservation management.
+> *Backend for a Zillow-like real estate platform with polyglot persistence*
+> * Multi-database architecture: **Neo4j** for complex geospatial queries (POI data via QGIS), **MongoDB** with embedding patterns for optimised data denormalisation (3 collections), **Redis** for high-performance reservation management.
+> * REST API built with **FastAPI** for authentication, property search, and cross-database data aggregation.
 
 ---
 
@@ -38,8 +38,8 @@ I enjoy understanding how things work under the hood, whether that's a transform
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
 
 #### 🗄️ Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
